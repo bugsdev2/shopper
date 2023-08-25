@@ -1,0 +1,19 @@
+{
+  "name": "shopper",
+  "version": "1.0.0",
+  "description": "Trying to replicate this website theme from getbootstrap.com for practice purposes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bugsdev2/shopper.git"
+  },
+  "author": "BugsDev2",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/bugsdev2/shopper/issues"
+  },
+  "homepage": "https://github.com/bugsdev2/shopper#readme"
+}
