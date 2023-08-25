@@ -1,0 +1,105 @@
+*, *::before, *::after {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.top-article {
+	background: #FFEFF3;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	padding: 1rem 5rem;
+	font-size: 0.7rem;
+	font-weight: bold;
+	font-family:sans;
+	color: #1D1D1D;
+}
+
+.country-icon img{
+	width: 13px;
+}
+
+.top-article .bi {
+	font-size: 0.9rem;
+}
+
+.top-article .info {
+	display: flex;
+	gap: 1rem;
+}
+
+.dropdown-menu-container {
+	display: flex;
+	gap: 1.8rem;
+}
+
+.dropdown-menu-container div {
+	display: flex;
+	align-items: center;
+	gap: 0.5rem;
+}
+
+.social-media-icons {
+	display: flex;
+	gap: 1rem;
+}
+
+header {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	padding: 2rem 4rem;
+	color: #1A1A1A;
+	font-family: sans;
+	letter-spacing: -1.5px;
+}
+
+.logo {
+	font-size: 1.3rem;
+	font-weight: bold;
+	font-size: 1.5rem;
+}
+
+.main-nav {
+	display: flex;
+	gap: 1.5rem;
+	font-size: 1rem;
+}
+
+.secondary-nav {
+	display: flex;
+	gap: 1rem;
+}
+
+.info-article {
+	background: #1A1A1A;
+	color: white;
+	text-align: center;
+	padding: 1.1rem;
+}
+
+.bi-lightning-fill {
+	color: gold;
+}
+
+.bi-cart {
+	position: relative;
+}
+
+.cart-count {
+	position: absolute;
+	top: -5px;
+	right: -5px;
+	font-size: 0.7rem;
+	display: inline-block;
+	width: 12px;
+	height: 12px;
+	background: red;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	color: white;
+	border-radius: 50px;
+	user-select: none;
+}

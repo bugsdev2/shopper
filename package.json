@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/bugsdev2/shopper/issues"
   },
-  "homepage": "https://github.com/bugsdev2/shopper#readme"
+  "homepage": "https://github.com/bugsdev2/shopper#readme",
+  "dependencies": {
+    "bootstrap-icons": "^1.10.5"
+  }
 }
