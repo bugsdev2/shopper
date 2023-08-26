@@ -90,7 +90,7 @@ header {
 .cart-count {
 	position: absolute;
 	top: -5px;
-	right: -5px;
+	right: -7px;
 	font-size: 0.7rem;
 	display: inline-block;
 	width: 12px;
