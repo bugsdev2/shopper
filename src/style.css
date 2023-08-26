@@ -20,8 +20,9 @@
 	width: 13px;
 }
 
-.top-article .bi {
+.top-article .fa {
 	font-size: 0.9rem;
+	cursor: pointer;
 }
 
 .top-article .info {
@@ -38,6 +39,7 @@
 	display: flex;
 	align-items: center;
 	gap: 0.5rem;
+	cursor: pointer;
 }
 
 .social-media-icons {
@@ -79,10 +81,6 @@ header {
 	padding: 1.1rem;
 }
 
-.bi-lightning-fill {
-	color: gold;
-}
-
 .bi-cart {
 	position: relative;
 }
@@ -102,4 +100,8 @@ header {
 	color: white;
 	border-radius: 50px;
 	user-select: none;
+}
+
+.bi-lightning-fill {
+	color: gold;
 }
