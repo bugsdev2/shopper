@@ -20,7 +20,7 @@
 	width: 13px;
 }
 
-.top-article .fa {
+.top-article :is(.fa, .bi) {
 	font-size: 0.9rem;
 	cursor: pointer;
 }
