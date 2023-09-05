@@ -27,9 +27,9 @@ long_line_behaviour=1
 long_line_column=72
 
 [files]
-current_page=1
-FILE_NAME_0=2985;HTML;0;EUTF-8;1;1;0;%2Fhome%2Fbugs%2FProjects%2Fshopper%2Findex.html;0;4
-FILE_NAME_1=3617;CSS;0;EUTF-8;1;1;0;%2Fhome%2Fbugs%2FProjects%2Fshopper%2Fsrc%2Fstyle.css;0;4
+current_page=0
+FILE_NAME_0=215;HTML;0;EUTF-8;1;1;0;%2Fhome%2Fbugs%2FProjects%2Fshopper%2Findex.html;0;4
+FILE_NAME_1=3419;CSS;0;EUTF-8;1;1;0;%2Fhome%2Fbugs%2FProjects%2Fshopper%2Fsrc%2Fstyle.css;0;4
 
 [VTE]
 last_dir=/home/bugs/Projects/shopper
