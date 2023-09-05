@@ -51,10 +51,10 @@ header {
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
-	padding: 2rem 4rem;
+	padding: 1.8rem 4rem;
 	color: #1A1A1A;
-	font-family: sans;
-	letter-spacing: -1.5px;
+	font-family: sans-serif;
+	letter-spacing: -0.8px;
 }
 
 .logo {
@@ -78,7 +78,9 @@ header {
 	background: #1A1A1A;
 	color: white;
 	text-align: center;
-	padding: 1.1rem;
+	padding: 0.85rem;
+	font-size: 0.8rem;
+	font-weight: bold;
 }
 
 .bi-cart3 {
