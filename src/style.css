@@ -151,21 +151,18 @@ main {
 }
 
 .women {
-	background-image: url('https://raw.githubusercontent.com/bugsdev2/shopper/c0936d584c1fdc2ebfe3db0675cba495e078f8f0/public/images/women-fashion.jpeg');
-	background-image: url('/public/images/women-fashion.jpeg');
+	background-image: url('https://raw.githubusercontent.com/bugsdev2/shopper/c0936d584c1fdc2ebfe3db0675cba495e078f8f0/public/images/women-fashion.jpeg'), url('/public/images/women-fashion.jpeg');
 	background-size: cover;
 	background-position: center;
 }
 
 .men {
-	background-image: url('https://raw.githubusercontent.com/bugsdev2/shopper/c0936d584c1fdc2ebfe3db0675cba495e078f8f0/public/images/men-fashion.jpg');
-	background-image: url('/public/images/men-fashion.jpg');
+	background-image: url('https://raw.githubusercontent.com/bugsdev2/shopper/c0936d584c1fdc2ebfe3db0675cba495e078f8f0/public/images/men-fashion.jpg'), url('/public/images/men-fashion.jpg');
 	background-size: cover;
 	background-position: center;
 }
 .kids {
-	background-image: url('https://raw.githubusercontent.com/bugsdev2/shopper/c0936d584c1fdc2ebfe3db0675cba495e078f8f0/public/images/kids-fashion.jpg');
-	background-image: url('/public/images/kids-fashion.jpg');
+	background-image: url('https://raw.githubusercontent.com/bugsdev2/shopper/c0936d584c1fdc2ebfe3db0675cba495e078f8f0/public/images/kids-fashion.jpg'), url('/public/images/kids-fashion.jpg');
 	background-size: cover;
 	background-position: center;
 }
